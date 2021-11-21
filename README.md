@@ -56,3 +56,13 @@ yess kalo begini udah berhasill
 # 
 
 cara pakenya di atas
+
+#
+
+biar nyalanya lama, ikutin ini:
+
+go to https://uptimerobot.com -> login -> create new monitor -> isi seperti dibawah
+
+![gambar](https://user-images.githubusercontent.com/79341513/142756766-607eff38-e0f0-4f2c-904a-548547c94301.png)
+
+note: urlnya diganti sama url dari replit tadi

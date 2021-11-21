@@ -24,7 +24,9 @@ trus pencet import from github
 ![image2](https://user-images.githubusercontent.com/79341513/142755866-faed8aa7-362c-4854-a4df-7a761909b3b9.PNG)
 # 
 klo udah pencet, ikutin ini
+
 1.masukin link ini https://github.com/devinadrian/autotyping di github url
+
 2.klik import from github (tombol biru)
 
 ![image 3](https://user-images.githubusercontent.com/79341513/142755901-11442575-3166-4c2f-a2b6-1e67edc378b3.PNG)
@@ -53,10 +55,12 @@ langkah terakhir, pencet tombol run ini:
 yess kalo begini udah berhasill
 
 ![gambar](https://user-images.githubusercontent.com/79341513/142756179-8f34e102-ced1-40c7-8e85-c7a7de64f0fe.png)
-# 
 
-cara pakenya di atas
-
+#
+#
+#
+#
+#
 #
 
 biar nyalanya lama, ikutin ini:

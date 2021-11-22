@@ -26,6 +26,12 @@ async def auto(ctx):
 		async with ctx.typing():
 			print("")
 
+@bot.command()
+async def stop(ctx):
+	await ctx.message.delete()
+	global dmcs
+	dmcs = False
+
 @bot.event
 async def on_ready():
   print('online')

@@ -7,7 +7,7 @@ lu tinggal tidur, makan, mandi, dll gapapa dah.
 
 kalo berhenti typing, idupin lagi.
 
-cara matikannya tinggal pencet lagi tombol run nya
+cara matikannya tinggal ketik $$stop
 
 # 
 
